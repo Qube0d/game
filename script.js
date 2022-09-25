@@ -23,3 +23,5 @@ let isAlive = setInterval(function () {
         alert("Game over")
     }
 }, 10)
+
+//test test
